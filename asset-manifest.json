@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Testinggithub/static/css/main.f855e6bc.css",
-    "main.js": "/Testinggithub/static/js/main.1d40130e.js",
-    "index.html": "/Testinggithub/index.html",
-    "main.f855e6bc.css.map": "/Testinggithub/static/css/main.f855e6bc.css.map",
-    "main.1d40130e.js.map": "/Testinggithub/static/js/main.1d40130e.js.map"
+    "main.css": "/testinggithub/static/css/main.f855e6bc.css",
+    "main.js": "/testinggithub/static/js/main.df7c477a.js",
+    "index.html": "/testinggithub/index.html",
+    "main.f855e6bc.css.map": "/testinggithub/static/css/main.f855e6bc.css.map",
+    "main.df7c477a.js.map": "/testinggithub/static/js/main.df7c477a.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.1d40130e.js"
+    "static/js/main.df7c477a.js"
   ]
 }
