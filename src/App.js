@@ -1,10 +1,9 @@
+import Home from './components/Home'
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-    <h1>Git hub testing </h1>
-    </div>
+    <Home />
   );
 }
 
